@@ -1,1 +1,1 @@
-print ('hello from linux console')
+print ('hello world')
